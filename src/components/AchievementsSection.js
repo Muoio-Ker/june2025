@@ -5,17 +5,17 @@ const achievements = [
     {
         title: "Поддержка самоопределения и самореализации",
         description: "Помощь в раскрытии потенциала и достижении личных целей.",
-        icon: "/images/okey.svg",
+        icon: "images/okey.svg",
     },
     {
         title: "Укрепление статуса",
         description: "Создание условий для повышения социальной ответственности и гражданской активности.",
-        icon: "/images/okey.svg",
+        icon: "images/okey.svg",
     },
     {
         title: "Благотворительность и добровольчество",
         description: "Активное участие в благотворительных инициативах и волонтерской деятельности.",
-        icon: "/images/okey.svg",
+        icon: "images/okey.svg",
     },
 ];
 

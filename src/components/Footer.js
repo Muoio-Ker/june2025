@@ -29,7 +29,7 @@ const Footer = () => {
                     <p className="copyright">
                         &copy; {new Date().getFullYear()} Все права защищены | VGO "Волонтерское движение"
                     </p>
-                    <a href="https://vk.com/" target="_blank" rel="noopener noreferrer"><img src="/images/icons8-vk-circled-50%20(1).png" alt="VK"/></a>
+                    <a href="https://vk.com/" target="_blank" rel="noopener noreferrer"><img src="/images/icons-vk.png" alt="VK"/></a>
                 </div>
             </footer>
         </section>
